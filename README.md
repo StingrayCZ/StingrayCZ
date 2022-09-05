@@ -8,8 +8,8 @@
 ![Snake animation](https://github.com/MariaChizhova/MariaChizhova/blob/output/github-snake.svg)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StingrayCZ&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MariaChizhova&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StingrayCZ&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=StingrayCZ&theme=monokai)
 
 
 <!--
