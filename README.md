@@ -3,9 +3,11 @@
 * 👋 My name is Jarda. I'm  from Brno, Czechia 🇨🇿
 * 👨‍🔧 **Experienced Mechanical Designer**, see repo of my <a href="https://github.com/StingrayCZ/Summary-of-Projects/blob/master/README.md"> Mech Projects</a>
 * 👨🏻‍💻 **Junior Python Programmer**, graduate of 1y SDA Academy course
-* 📫 How to reach me: `jaromirbaca@gmail.com`, `jaromirbaca` in LinkedIn, `@jarda_biker` in Instagram
+* 📫 How to reach me:
 
-
+    `Gmail` > [jaromirbaca@gmail.com](mailto:jaromirbaca@gmail.com) </p>
+    `LinkedIn` > <a href="https://www.linkedin.com/in/jaromirbaca/"> linkedin.com/in/jaromirbaca/</a> </p>
+    `Instagram` > <a href="https://www.instagram.com/jarda_biker/"> jarda_biker</a> </p>
 
 [//]: # (<!--)
 
