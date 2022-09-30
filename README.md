@@ -26,11 +26,14 @@
 
 [//]: # (Here are some ideas to get you started:)
 
-## Other info about me 
+[//]: # (## Other info about me )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- ⚡ Fun fact: I keep bees 🐝🍯
+[//]: # ()
+[//]: # (- 🔭 I’m currently working on ...)
+
+[//]: # (- 🌱 I’m currently learning ...)
+
+[//]: # (- ⚡ Fun fact: I keep bees 🐝🍯)
 
 [//]: # (- 👯 I’m looking to collaborate on ...)
 [//]: # (- 🤔 I’m looking for help with ...)
