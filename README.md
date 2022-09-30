@@ -1,32 +1,41 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+Everyone)](https://git.io/typing-svg)
 
 * 👋 My name is Jarda. I'm  from Brno, Czechia 🇨🇿
-* 👨🏻‍💻 Junior Python Programmer
-* 💻 Ex-STEP intern at Google
+* 👨‍🔧 **Experienced Mechanical Designer**, see repo of my <a href="https://github.com/StingrayCZ/Summary-of-Projects/blob/master/README.md"> Mech Projects</a>
+* 👨🏻‍💻 **Junior Python Programmer**, graduate of 1y SDA Academy course
 * 📫 How to reach me: `jaromirbaca@gmail.com`, `jaromirbaca` in LinkedIn, `@jarda_biker` in Instagram
 
-<!--
-![Snake animation](https://github.com/StingrayCZ/StingrayCZ/blob/output/github-snake.svg)
-<!--![Snake animation](https://github.com/MariaChizhova/MariaChizhova/blob/output/github-snake.svg)-->
--->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StingrayCZ&theme=monokai)
+
+[//]: # (<!--)
+
+[//]: # (![Snake animation]&#40;https://github.com/StingrayCZ/StingrayCZ/blob/output/github-snake.svg&#41;)
+
+[//]: # (<!--![Snake animation]&#40;https://github.com/MariaChizhova/MariaChizhova/blob/output/github-snake.svg&#41;-->)
+
+[//]: # (-->)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StingrayCZ&theme=monokai) </p>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StingrayCZ&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=StingrayCZ&theme=monokai)
 
 
-**Jaromir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[//]: # (The repo StingrayCZ is a special because its `README.md` &#40;this file&#41; appears on your GitHub profile.)
 
-Here are some ideas to get you started:
+[//]: # (Here are some ideas to get you started:)
+
+## Other info about me 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I keep bees 🐝🍯
+
+[//]: # (- 👯 I’m looking to collaborate on ...)
+[//]: # (- 🤔 I’m looking for help with ...)
+[//]: # (- 💬 Ask me about ...)
+[//]: # (- 📫 How to reach me: ...)
+[//]: # (- 😄 Pronouns: ...)
+
 
 
 <!--
