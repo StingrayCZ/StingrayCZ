@@ -23,7 +23,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=StingrayCZ&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=StingrayCZ&theme=monokai)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StingrayCZ&layout=compact&theme=monokai)](https://github.com/StingrayCZ/)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StingrayCZ&layout=compact&theme=monokai)](https://github.com/StingrayCZ/) -->
 
 
 [//]: # (The repo StingrayCZ is a special because its `README.md` &#40;this file&#41; appears on your GitHub profile.)
