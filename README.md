@@ -21,7 +21,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StingrayCZ&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=StingrayCZ&theme=monokai) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=StingrayCZ&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=StingrayCZ&theme=monokai) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=StingrayCZ&theme=monokai)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StingrayCZ&layout=compact)](https://github.com/StingrayCZ/)
 
 
 [//]: # (The repo StingrayCZ is a special because its `README.md` &#40;this file&#41; appears on your GitHub profile.)
