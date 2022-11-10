@@ -18,7 +18,7 @@
 [//]: # (-->)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StingrayCZ&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StingrayCZ&theme=synthwave)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StingrayCZ&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=StingrayCZ&theme=monokai) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=StingrayCZ&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=StingrayCZ&theme=monokai) 
